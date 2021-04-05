@@ -15,7 +15,6 @@ The following command can be used to install the requests library
 
 ```
 $ python -m pip install requests
-
 ```
 The following command can be used to install BeautifulSoup
 
