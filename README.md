@@ -1,6 +1,6 @@
 # Web Scraper Quote Game
 
-This Python Project scrapes data from the url https://quotes.toscrape.com/, to avoid sending too many requests and scraping the entire website each time for quotes, all the quotes along with the author and their bio link are written to a CSV file, this is the purpose of the file csv_scraper.py. The file csv_quote_game.py reads the contents of the CSV file and runs the guessing game, if a user enters a wrong answer the url is scraped and author's birth place and data are extracted and given as a hint, other hints include the author's initials which are obtained by reading the CSV file and extracting the relevant data. 
+This Python Project scrapes data from the url https://quotes.toscrape.com/, to avoid sending too many requests and scraping the entire website each time for quotes, all the quotes along with the author and their bio link are written to a CSV file, this is the purpose of the file csv_scraper.py. The file csv_quote_game.py reads the contents of the CSV file and runs the guessing game, if a user enters a wrong answer the url is scraped and author's birth place and date are extracted and given as a hint, other hints include the author's initials which are obtained by reading the CSV file and extracting the relevant data. 
 
 ### Prerequisites
 
