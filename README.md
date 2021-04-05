@@ -24,4 +24,4 @@ $ apt-get install python3-bs4
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#) - Used to scrape data from HTML and XML files 
 * [Requests](https://pypi.org/project/requests/) - Used to send HTTP requests to webpages
 * [CSV](https://docs.python.org/3/library/csv.html) - Used to read and write data in the CSV (comma separated values) format
-* [Random](https://docs.python.org/3/library/random.html) - Used to randomly select a quote from a list of quotes
+* [Random](https://docs.python.org/3/library/random.html) - Used to randomly select data
